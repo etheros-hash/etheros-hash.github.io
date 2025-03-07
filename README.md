@@ -55,4 +55,4 @@
 
   ## Contact Us
 
-  If you have any questions about this Privacy Policy, please contact us at:
+  If you have any questions about this Privacy Policy, please contact us at: info@promptgit.com
